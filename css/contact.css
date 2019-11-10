@@ -1,0 +1,19 @@
+
+body{background-color: rgba(228, 225, 225, 0.938);}
+.navbar {border-radius: 0px; margin: 0px;}
+article{ padding: 30px;}
+img{width:1140px; height:600px; margin: 6px;}
+#dropdown{position: relative; text-align: end; }
+#main1{color: whitesmoke;}
+.info {display: block; background-color: black; color: whitesmoke;border-radius: 12px; outline-style: none;
+     height:40px; width: 200px}
+ ::placeholder{color:lightgray;}
+ .button{height:40px; width:90px;}
+input[type=submit], input[type=reset] {display: inline-block; border-radius: 12px; background-color: black;color:whitesmoke;
+     }
+ #form1{position: absolute;left:55px;}
+#divform{background-color: black;width: 400px;position: absolute; left:20px;height: 360px;padding-top: 90px;top: 350px;
+     margin: auto;}
+p{color: whitesmoke;margin: auto;position: absolute;top: 10px;}
+#a0{background-color: black;color: whitesmoke;}
+footer{text-align: end;}

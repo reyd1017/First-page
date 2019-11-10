@@ -1,0 +1,5 @@
+
+#stage img{width:50%;}
+body{background-color: rgba(204, 191, 191, 0.938);}
+#stage img{width: 80%; align-content: center;}
+.carousel-inner img{margin: auto;}
